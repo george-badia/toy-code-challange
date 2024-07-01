@@ -40,7 +40,7 @@ checkSpeed(150); // Output: Points: License suspended ```
    
    <!-- Challenge 3: Net Salary Calculator (Toy Problem) -->
 
-   ### Net Salary Calculator
+  ``` ### Net Salary Calculator
 
 This JavaScript application calculates the net salary based on the given basic salary and benefits by considering tax rates and deductions.
 ## Employee Details
@@ -84,7 +84,7 @@ The function returns an object with the following details:
 -tax: The calculated tax amount.
 -nhifDeductions: The NHIF deductions amount.
 -nssfDeductions: The NSSF deductions amount.
--netSalary: The calculated net salary.
+-netSalary: The calculated net salary.```
 
 # Example for Usage
 ```js
