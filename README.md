@@ -13,7 +13,9 @@ Inside the calculateGrade function, it contains some rules to decide the grade:
 - If a student gets less than 40 marks, they get an 'E' grade.
 
 -After creating `calculateGrade` function, ask the user to tell or state the marks a student got by showing them a message.
+
 -Once the user types in the marks, the function is used to determine the grade for the student in this case will be one by one (cannot perform many operations at once).
+
 -Finally, the result is shown to the user by printing out the grade in a special message.
 
 <!-- Challenge 2: Speed Detector (Toy Problem) -->
