@@ -25,7 +25,7 @@ It follows the rules stated below:
 
 -  If the speed is less than or equal to the speed limit (70), it will output "Ok".
 -  If the speed exceeds the speed limit, demerit points are calculated by getting the difference between the speed and the speed limit,while awarding 1 point for every 5 km/h which has passed the limit in place.
-- If the total demerit points exceed the limit of 12, the output given out will be "License suspended".
+-  if the total demerit points exceed the limit of 12, the output given out will be "License suspended".
 
 ## To test the function and ensure its working  
 
