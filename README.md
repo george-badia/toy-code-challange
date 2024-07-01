@@ -3,17 +3,17 @@
 # Student Grade Generator
 -So, the code helps find out what grade a student should get based on the marks they have.   
 
--first create function called calculateGrade that will help in figuring out which grade a student should get based on their marks.
+-first create function called `calculateGrade` that will help in figuring out which grade a student should get based on their marks.
 
 Inside the calculateGrade function, it contains some rules to decide the grade:
-  - If a student gets more than 79 marks, they get an 'A' grade.
-  - If a student gets between 60 and 79 marks, they get a 'B' grade.
-  - If a student gets between 50 and 59 marks, they get a 'C' grade.
-  - If a student gets between 40 and 49 marks, they get a 'D' grade.
-  - If a student gets less than 40 marks, they get an 'E' grade.
+    - If a student gets more than 79 marks, they get an 'A' grade.
+    - If a student gets between 60 and 79 marks, they get a 'B' grade.
+    - If a student gets between 50 and 59 marks, they get a 'C' grade.
+    - If a student gets between 40 and 49 marks, they get a 'D' grade.
+    - If a student gets less than 40 marks, they get an 'E' grade.
 
-- After creating calculateGrade function, ask the user to tell or state the marks a student got by showing them a message.
-- Once the user types in the marks, the function is used to determine the grade for the student in this case will be one by one (cannot perform many operations at once) .
+- After creating `calculateGrade` function, ask the user to tell or state the marks a student got by showing them a message.
+- Once the user types in the marks, the function is used to determine the grade for the student in this case will be one by one (cannot perform many operations at once).
 - Finally, the result is shown to the user by printing out the grade in a special message.
 
 <!-- Challenge 2: Speed Detector (Toy Problem) -->
