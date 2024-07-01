@@ -6,16 +6,15 @@
 -first create function called calculateGrade that will help in figuring out which grade a student should get based on their marks.
 
 Inside the calculateGrade function, it contains some rules to decide the grade:
-If a student gets more than 79 marks, they get an 'A' grade.
-If a student gets between 60 and 79 marks, they get a 'B' grade.
-If a student gets between 50 and 59 marks, they get a 'C' grade.
-If a student gets between 40 and 49 marks, they get a 'D' grade.
-If a student gets less than 40 marks, they get an 'E' grade.
+- If a student gets more than 79 marks, they get an 'A' grade.
+- If a student gets between 60 and 79 marks, they get a 'B' grade.
+- If a student gets between 50 and 59 marks, they get a 'C' grade.
+- If a student gets between 40 and 49 marks, they get a 'D' grade.
+- If a student gets less than 40 marks, they get an 'E' grade.
 
-After creating calculateGrade function, ask the user to tell or state the marks a student got by showing them a message.  
-
-Once the user types in the marks, the function is used to determine the grade for the student in this case will be one by one (cannot perform many operations at once) .
-Finally, the result is shown to the user by printing out the grade in a special message.
+- After creating calculateGrade function, ask the user to tell or state the marks a student got by showing them a message.
+- Once the user types in the marks, the function is used to determine the grade for the student in this case will be one by one (cannot perform many operations at once) .
+- Finally, the result is shown to the user by printing out the grade in a special message.
 
 <!-- Challenge 2: Speed Detector (Toy Problem) -->
  # Speed Checking Function
@@ -24,10 +23,8 @@ Finally, the result is shown to the user by printing out the grade in a special 
 
 It follows the rules stated below:
 
-- If the speed is less than or equal to the speed limit (70), it will output "Ok".
-
-- If the speed exceeds the speed limit, demerit points are calculated by getting the difference between the speed and the speed limit,while awarding 1 point for every 5 km/h which has passed the limit in place.   
-
+-  If the speed is less than or equal to the speed limit (70), it will output "Ok".
+-  If the speed exceeds the speed limit, demerit points are calculated by getting the difference between the speed and the speed limit,while awarding 1 point for every 5 km/h which has passed the limit in place.
 - If the total demerit points exceed the limit of 12, the output given out will be "License suspended".
 
 ## To test the function and ensure its working  
