@@ -1,6 +1,6 @@
-## toy-code-challange
+# toy-code-challange
 <!-- Challenge 1: Student Grade Generator (Toy Problem) -->
-## Student Grade Generator
+# Student Grade Generator
 -So, the code helps find out what grade a student should get based on the marks they have.   
 
 -first create function called calculateGrade that will help in figuring out which grade a student should get based on their marks.
@@ -40,7 +40,7 @@ It follows the rules stated below:
    
    <!-- Challenge 3: Net Salary Calculator (Toy Problem) -->
 
-   ### Net Salary Calculator
+   # Net Salary Calculator
 
 This JavaScript application calculates the net salary based on the given basic salary and benefits by considering tax rates and deductions.
 ## Employee Details
@@ -53,7 +53,7 @@ This JavaScript application calculates the net salary based on the given basic s
 - Payment Period: 1 July
 - Year of Taxation: 2023
 
-# Constants
+## Constants
 - TAX_RATE: The tax rate set at 30%.
 - NHIF_RATE: The NHIF rate set at 1.9%.
 - NSSF_RATE: The NSSF rate set at 6%.
@@ -68,16 +68,16 @@ This JavaScript application calculates the net salary based on the given basic s
    - NSSF Deductions
    - Net Salary
 
-# Function
+## Function
 The `calculateNetSalary(basicSalary, benefits)` function is used to calculate the net salary. 
 
 It follows these steps:
 
--Calculate the gross salary by adding the basic salary and benefits.
--Calculate the tax based on the gross salary and the tax rate.
--Calculate NHIF deductions based on the gross salary and the NHIF rate.
--Calculate NSSF deductions based on the gross salary and the NSSF rate.
--Calculate the net salary by subtracting tax, NHIF deductions, and NSSF deductions from the gross salary.
+- Calculate the gross salary by adding the basic salary and benefits.
+- Calculate the tax based on the gross salary and the tax rate.
+- Calculate NHIF deductions based on the gross salary and the NHIF rate.
+- Calculate NSSF deductions based on the gross salary and the NSSF rate.
+- Calculate the net salary by subtracting tax, NHIF deductions, and NSSF deductions from the gross salary.
 The function returns an object with the following details:
 
 -grossSalary: The calculated gross salary.
@@ -86,7 +86,7 @@ The function returns an object with the following details:
 -nssfDeductions: The NSSF deductions amount.
 -netSalary: The calculated net salary.```
 
-# Example for Usage
+### Example for Usage
 ```js
 // Calculate net salary
 const salaryDetails = calculateNetSalary(basicSalary, benefits);
