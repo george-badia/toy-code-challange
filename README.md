@@ -17,7 +17,7 @@ Inside the calculateGrade function, it contains some rules to decide the grade:
 - Finally, the result is shown to the user by printing out the grade in a special message.
 
 <!-- Challenge 2: Speed Detector (Toy Problem) -->
- # Speed Checking Function
+ # Speed Detector
 
 -The function `checkSpeed(speed)` determines demerit points based on speed exceeding a limit.
 
