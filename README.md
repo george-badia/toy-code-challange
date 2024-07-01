@@ -32,15 +32,15 @@ It follows the rules stated below:
  call `checkSpeed(speed)`with the speed as the parameter,because parameter is always assigned the valeau of argument like,70,80,90,150 i provided. 
 
 ### for Example
-``js
-checkSpeed(70); // Output: Points: Ok 
+
+`checkSpeed(70); // Output: Points: Ok 
 checkSpeed(80); // Output: Points: 2
 checkSpeed(90); // Output: Points: 4
-checkSpeed(150); // Output: Points: License suspended  
+checkSpeed(150); // Output: Points: License suspended ` 
    
    <!-- Challenge 3: Net Salary Calculator (Toy Problem) -->
 
-  ``` ### Net Salary Calculator
+   ### Net Salary Calculator
 
 This JavaScript application calculates the net salary based on the given basic salary and benefits by considering tax rates and deductions.
 ## Employee Details
