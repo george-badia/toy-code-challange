@@ -69,7 +69,7 @@ This JavaScript application calculates the net salary based on the given basic s
    - Net Salary
 
 # Function
-The calculateNetSalary(basicSalary, benefits) function is used to calculate the net salary. 
+The `calculateNetSalary(basicSalary, benefits)` function is used to calculate the net salary. 
 
 It follows these steps:
 
