@@ -80,11 +80,11 @@ It follows these steps:
 - Calculate the net salary by subtracting tax, NHIF deductions, and NSSF deductions from the gross salary.
 The function returns an object with the following details:
 
-- grossSalary: The calculated gross salary.
-- tax: The calculated tax amount.
-- nhifDeductions: The NHIF deductions amount.
-- nssfDeductions: The NSSF deductions amount.
-- netSalary: The calculated net salary.```
+  - grossSalary: The calculated gross salary.
+  - tax: The calculated tax amount.
+  - nhifDeductions: The NHIF deductions amount.
+  - nssfDeductions: The NSSF deductions amount.
+  - netSalary: The calculated net salary.
 
 ### Example for Usage
 ```js
