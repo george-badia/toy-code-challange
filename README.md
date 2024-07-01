@@ -54,9 +54,9 @@ This JavaScript application calculates the net salary based on the given basic s
 - Year of Taxation: 2023
 
 # Constants
-TAX_RATE: The tax rate set at 30%.
-NHIF_RATE: The NHIF rate set at 1.9%.
-NSSF_RATE: The NSSF rate set at 6%.
+- TAX_RATE: The tax rate set at 30%.
+- NHIF_RATE: The NHIF rate set at 1.9%.
+- NSSF_RATE: The NSSF rate set at 6%.
 
 ## How to Use
 1. Fill in the employee details and salary information.
