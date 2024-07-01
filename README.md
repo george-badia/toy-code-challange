@@ -19,7 +19,7 @@ Inside the calculateGrade function, it contains some rules to decide the grade:
 <!-- Challenge 2: Speed Detector (Toy Problem) -->
  # Speed Checking Function
 
--The function checkSpeed(speed) determines demerit points based on speed exceeding a limit.
+-The function `checkSpeed(speed)` determines demerit points based on speed exceeding a limit.
 
 It follows the rules stated below:
 
@@ -29,9 +29,10 @@ It follows the rules stated below:
 
 ## To test the function and ensure its working  
 
- call checkSpeed(speed) with the speed as the parameter,because parameter is always assigned the valeau of argument like,70,80,90,150 i provided. 
+ call `checkSpeed(speed)`with the speed as the parameter,because parameter is always assigned the valeau of argument like,70,80,90,150 i provided. 
 
 ### for Example
+```js
 checkSpeed(70); // Output: Points: Ok
 checkSpeed(80); // Output: Points: 2
 checkSpeed(90); // Output: Points: 4
